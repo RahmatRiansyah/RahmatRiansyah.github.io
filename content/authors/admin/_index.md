@@ -55,7 +55,7 @@ education:
   - area: Mahasiswa
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2023-10-07
-    date_end: Sekarang
+    date_end: 2027-10-07
     summary: |
       Relevant courses: Learning the systematic processes associated with project design, programming languages, development, testing, maintenance, and software management. Able to maintain high GPAs at both of his studies with many involvements in organizations.
     button:
