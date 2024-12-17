@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: ᨆᨀᨔᨑ
 
 # Name pronunciation (optional)
 name_pronunciation: Ryan Garcia
@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: "mailto:rhmatriansyapkp@gmail.com"
+    url: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/notyour_rr
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/notyours_rr/?hl=en
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/RahmatRiansyah
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/rahmat-riansyah8
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
