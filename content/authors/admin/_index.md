@@ -10,7 +10,7 @@ first_name: Rahmat
 last_name: Riansyah
 
 # Status emoji
-status: Mahasiswa
+status:
   icon: 👾
 
 # Is this the primary user of the site?
@@ -85,7 +85,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Daily Worker
-    company_name: PT Shopee Express 
+    company_name: PT Shopee Express
     company_url: ""
     company_logo: ""
     date_start: 2024-02-03
