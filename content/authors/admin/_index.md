@@ -10,8 +10,8 @@ first_name: Rahmat
 last_name: Riansyah
 
 # Status emoji
-status:
-  icon: ☕️
+status: Mahasiswa
+  icon: 👾
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,16 +48,16 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - CyberSecurity
+  - Sport
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Mahasiswa
+    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
+    date_start: 2023-10-07
+    date_end: Sekarang
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Relevant courses: Learning the systematic processes associated with project design, programming languages, development, testing, maintenance, and software management. Able to maintain high GPAs at both of his studies with many involvements in organizations.
     button:
       text: "Read Thesis"
       url: "https://example.com"
@@ -84,28 +84,28 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Daily Worker
+    company_name: PT Shopee Express 
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
+    date_start: 2024-02-03
     date_end: ""
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      • Responsible for the sorting and organizing of goods to ensure delivery efficiency. 
+      • Managed inventory and ensured stock accuracy with the warehouse management system. 
+      • Worked in a team to achieve daily targets and enhance productivity. 
+      • Implemented a sorting system that expedited the packing and shipping process
+  - position: Independent Distributor
+    company_name: PT Tiens Syariah
     company_url: ""
     company_logo: ""
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      • Built and maintained a distribution network for halal-certified health products.  
+      • Conducted direct marketing and product sales through personal selling strategies in accordance with Sharia principles. 
+      • Developed communication and negotiation skills to increase sales and expand the network. 
+      • Participated in training and education provided by the company to enhance product knowledge and marketing skills.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -118,36 +118,36 @@ skills:
         icon: code-bracket
       - name: Data Science
         description: ""
-        percent: 100
+        percent: 60
         icon: chart-bar
       - name: SQL
         description: ""
-        percent: 40
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
-        description: ""
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Foot Ball
         description: ""
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: sepak bola
+      - name: Workout
+        description: ""
+        percent: 100
+        icon: olahraga
+      - name: Swimming
         description: ""
         percent: 80
-        icon: camera
+        icon: swimming
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
     percent: 25
+  - name: Indonesia
+    percent: 100
+  - name: Makassar
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a software engineering student, I am highly focused on applying advanced technologies to support continued digital evolution. With practical experience in the world of multilevel marketing, I have a deep understanding of the market and how to move products through platforms such as FB Marketplace and Shopee. While continuing to learn, I am looking for freelance opportunities that will broaden my understanding of software engineering and sharpen the communication skills I have mastered.
