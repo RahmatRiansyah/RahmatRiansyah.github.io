@@ -6,7 +6,7 @@
 # Website name
 title: Portofolio Rahmat Riansyah
 # Website URL
-baseURL: 'https://portofoliorahmatriansyah
+baseURL: "https://portofoliorahmatriansyah"
 
 ############################
 ## LANGUAGE
@@ -32,7 +32,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  authors: "/author/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
