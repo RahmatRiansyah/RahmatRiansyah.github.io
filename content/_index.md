@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Curriculum Vitae_Rahmat Riansyah
+        url: https://drive.google.com/file/d/13T5Fzm80i1R3KQFEXD-b04DGRXy3Q-TP/view?usp=drive_link
     design:
       css_class: dark
       background:
