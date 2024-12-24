@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: mailto: rahmatriansyahpkp@gmail.com
+    url: mailto:rahmatriansyahpkp@gmail.com
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/notyour_rr
@@ -71,7 +71,7 @@ education:
       Courses included:
       - Involves fields of study such as mathematics, physics, chemistry, and biology. 
       - Improve analytical skills data, financial planning, problem solving, scientific research, product development.
-      - Understanding environment 
+      - Understanding environment
 work:
   - position: Daily Worker
     company_name: PT Shopee Express
