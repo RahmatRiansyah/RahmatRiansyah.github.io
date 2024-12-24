@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ᨆᨀᨔᨑ
+title: Rahmat Riansyah
 
 # Name pronunciation (optional)
 name_pronunciation: Ryan Garcia
@@ -20,30 +20,30 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Software Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
+    url: https://itesa.ac.id/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+    url: mailto: rahmatriansyahpkp@gmail.com
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/notyour_rr
   - icon: brands/instagram
-    url: https://www.instagram.com/notyours_rr/?hl=en
+    url: https://www.instagram.com/notyours_rr
   - icon: brands/github
     url: https://github.com/RahmatRiansyah
   - icon: brands/linkedin
     url: https://www.linkedin.com/rahmat-riansyah8
-  - icon: academicons/google-scholar
+  - icon: academicons/
     url: https://scholar.google.com/
-  - icon: academicons/orcid
+  - icon: academicons/
     url: https://orcid.org/
 
 interests:
@@ -52,37 +52,26 @@ interests:
   - Sport
 
 education:
-  - area: Mahasiswa
+  - area: S1 Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2023-10-07
-    date_end: 2027-10-07
+    date_end: ""
     summary: |
       Relevant courses: Learning the systematic processes associated with project design, programming languages, development, testing, maintenance, and software management. Able to maintain high GPAs at both of his studies with many involvements in organizations.
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Natural Science
+    institution: SMAN 8 PANGKEP
+    date_start: 2019-06-07
+    date_end: 2022-04-07
     summary: |
-      GPA: 3.8/4.0
+      GPA: 86.14/100
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Involves fields of study such as mathematics, physics, chemistry, and biology. 
+      - Improve analytical skills data, financial planning, problem solving, scientific research, product development.
+      - Understanding environment 
 work:
   - position: Daily Worker
     company_name: PT Shopee Express
@@ -154,31 +143,47 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: "2023-11-25"
-    awarder: Coursera
+  - title: Career Essentials in Generative AI by Microsoft and LinkedIn
+    url: https://drive.google.com/file/d/1EEeoRLPXhAlBGrZxcz90s58ioHE6c1y0/view?usp=sharing
+    date: "2024-05-16"
+    awarder: Microsoft
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: "2023-07-01"
-    awarder: edX
+      I studied the foundational concept of learning path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
+  - title: Certificate Internasional Bootcamp Data Analyst
+    url: https://drive.google.com/file/d/1i9j2zsAXMeAEmC4yCnkG-ongQ0-TW580/view?usp=sharing
+    date: "2024-05-28"
+    awarder: SmarPath
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: "Object-Oriented Programming in R"
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+      This International Bootcamp in Data Analysis provided a comprehensive overview of data analysis techniques and tools. Throughout the course, I gained hands-on experience in data manipulation, statistical analysis, and data visualization using popular programming languages such as Python and R. 
+      learned:
+      - Data cleaning and preprocessing
+      - Exploratory data analysis (EDA)
+      - Statistical inference and hypothesis testing
+      - Data visualization techniques using libraries like Matplotlib and Seaborn
+      - Introduction to machine learning concepts
+  - title: READY4AI&SECURITY TRAINING
+    url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
+    certificate_url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
     date: "2023-01-21"
-    awarder: datacamp
+    awarder: InfraDigital
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Training Hard Skill - Hybrid Learning:
+
+      • Security Principles
+      • Incident Response, Business Continuity, and Disaster Recovery Concepts
+      • Access Control Concepts
+      • Network Security
+      Security Operations
+      • SC-900: Describe the concepts of security, compliance, and identity
+      • SC-900: Describe the capabilities of Microsoft Entra ID   
+      • SC-900: Describe the capabilities of Microsoft security solutions SC-900: Describe the capabilities of Microsoft compliance solutions
+      • SC-900: Lab Hands-on 1
+      • SC-900: Lab Hands-on 2
+      • Career Essentials in Generative Al
+      English Class Session
 ---
 
 ## About Me
