@@ -1,16 +1,11 @@
 ---
 title: "Budidaya Lele Dalam Ember dan Upaya Pemasaran Digital Menggunakan Media Sosial"
 authors:
-  - name: Alya Masitha
-    affiliation: Institut Teknologi Statistika dan Bisnis Muhammadiyah
-  - name: Tri Stiyo Famuji
-    affiliation: Universitas Harapan Bangsa
-  - name: Adiyah Mahiruna
-    affiliation: Institut Teknologi Statistika dan Bisnis Muhammadiyah
-  - name: Rahmat Riansyah
-    affiliation: Institut Teknologi Statistika dan Bisnis Muhammadiyah
-  - name: Maulana Muhammad Jogo Samodro
-    affiliation: Universitas Safin Patin
+  - Alya Masitha, Institut Teknologi Statistika dan Bisnis Muhammadiyah
+  - Tri Stiyo Famuji, Universitas Harapan Bangsa
+  - Adiyah Mahiruna, Institut Teknologi Statistika dan Bisnis Muhammadiyah
+  - Rahmat Riansyah, Institut Teknologi Statistika dan Bisnis Muhammadiyah
+  - Maulana Muhammad Jogo Samodro, Universitas Safin Patin
 date: "2024-12-10T00:00:00Z"
 doi: "https://doi.org/10.58169/jpmsaintek.v3i4.639"
 
