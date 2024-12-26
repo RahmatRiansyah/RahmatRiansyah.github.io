@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-12-26
 type: landing
 
 design:
@@ -12,7 +12,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: Admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
@@ -33,13 +33,16 @@ sections:
   - block: markdown
     content:
       title: "📚 My Research"
-      subtitle: ""
+      subtitle: "Exploring Software Engineering Innovations"
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        As a Software Engineering student, I am particularly interested in the following areas:
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        - **Machine Learning**: Exploring how algorithms can learn from data to make predictions and improve decision-making.
+        - **Web Development**: Building responsive and user-friendly web applications using modern frameworks.
+        - **Mobile App Development**: Creating mobile applications that enhance user experience and accessibility.
+        - **Open Source Contributions**: Actively contributing to open source projects to improve my coding skills and collaborate with other developers.
 
-        Please reach out to collaborate 😃
+        I am always looking for opportunities to collaborate on exciting projects and research. Please feel free to reach out if you are interested in working together! 😃
     design:
       columns: "1"
   - block: collection

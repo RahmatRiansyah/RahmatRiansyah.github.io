@@ -34,13 +34,13 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
+    logo: "R"
       text: "Rahmat Riansyah"
 
 # Site footer
 footer:
   copyright:
-    notice: "© {year} Me. This work is licensed under {license}"
+    notice: "© {2024} Me. This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: false
@@ -49,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: "Jan 2, 2006"
+  date_format: "Jan 8, 2025"
   time_format: "3:04 PM"
 
 # Site features

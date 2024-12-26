@@ -3,7 +3,7 @@
 title: Rahmat Riansyah
 
 # Name pronunciation (optional)
-name_pronunciation: Ryan Garcia
+name_pronunciation: ᨔᨗᨑᨗ ᨊ ᨄᨌᨙ
 
 # Full name (for SEO)
 first_name: Rahmat
@@ -41,10 +41,6 @@ profiles:
     url: https://github.com/RahmatRiansyah
   - icon: brands/linkedin
     url: https://www.linkedin.com/rahmat-riansyah8
-  - icon: academicons/
-    url: https://scholar.google.com/
-  - icon: academicons/
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -59,8 +55,8 @@ education:
     summary: |
       Relevant courses: Learning the systematic processes associated with project design, programming languages, development, testing, maintenance, and software management. Able to maintain high GPAs at both of his studies with many involvements in organizations.
     button:
-      text: "Read Thesis"
-      url: "https://example.com"
+      text: "View Portofolio"
+      url: "https://github.com/RahmatRiansyah"
   - area: Natural Science
     institution: SMAN 8 PANGKEP
     date_start: 2019-06-07
@@ -117,24 +113,22 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Foot Ball
+      - name: FootBall
         description: ""
         percent: 100
-        icon: sepak bola
+        icon: football
       - name: Workout
         description: ""
         percent: 100
-        icon: olahraga
+        icon: workout
       - name: Swimming
         description: ""
         percent: 80
-        icon: swimming
+        icon: swimmer
 
 languages:
   - name: English
     percent: 25
-  - name: Indonesia
-    percent: 100
   - name: Makassar
     percent: 75
 
@@ -173,7 +167,7 @@ awards:
       Training Hard Skill - Hybrid Learning:
 
       • Security Principles
-      • Incident Response, Business Continuity, and Disaster Recovery Concepts
+      • Incident Response, Business       Continuity, and Disaster Recovery Concepts
       • Access Control Concepts
       • Network Security
       Security Operations
