@@ -1,16 +1,16 @@
 ---
 title: "Budidaya Lele Dalam Ember dan Upaya Pemasaran Digital Menggunakan Media Sosial"
 authors:
-- Alya Masitha
-Institut Teknologi Statistika dan Bisnis Muhammadiyah
-- Tri Stiyo Famuji
-Universitas Harapan Bangsa
-- Adiyah Mahiruna
-Institut Teknologi Statistika dan Bisnis Muhammadiyah
-- Rahmat Riansyah
-Institut Teknologi Statistika dan Bisnis Muhammadiyah
-- Maulana Muhammad Jogo Samodro
-Universitas Safin Patin
+  - name: Alya Masitha
+    affiliation: Institut Teknologi Statistika dan Bisnis Muhammadiyah
+  - name: Tri Stiyo Famuji
+    affiliation: Universitas Harapan Bangsa
+  - name: Adiyah Mahiruna
+    affiliation: Institut Teknologi Statistika dan Bisnis Muhammadiyah
+  - name: Rahmat Riansyah
+    affiliation: Institut Teknologi Statistika dan Bisnis Muhammadiyah
+  - name: Maulana Muhammad Jogo Samodro
+    affiliation: Universitas Safin Patin
 date: "2024-12-10T00:00:00Z"
 doi: "https://doi.org/10.58169/jpmsaintek.v3i4.639"
 
@@ -26,35 +26,34 @@ publication_types: ["article"]
 publication: "Jurnal Pengabdian Masyarakat Sains dan Teknologi"
 publication_short: "JPMSAINTEK"
 
-abstract: Pengabdian masyarakat yang bertema “Budidaya Lele Dalam Ember dan Upaya Pemasaran Digital Menggunakan Media Sosial” bertujuan untuk memberikan pengetahuan dan keterampilan praktis kepada peserta tentang metode budidaya lele dalam ember yang sederhana, hemat biaya, dan cocok untuk lahan terbatas. Kegiatan ini dilatar belakangi oleh keinginan masyarakat Tembalang untuk budidaya dilahan terbatas dan memasarkan hasil budidayanya  di  media  sosial.  Pelatihan  ini  dilaksanakan  melalui  pendekatan  parsipatif  yang  melibatkan  teori, praktik, dan diskusi interaktif. Materi dari pelatihan ini, antara lain materi terkait budidaya ikan lele dalam ember dan  materi  terkait  media  sosial  dan  cara  pemanfaatannya  untuk  pemasaran  produk  ikan  lele  yang  sudah dibudidayakan. Peserta diminta untuk mempraktikkan tatacara budidaya yang baik dan benar menggunakan ember budidaya  dan  peralatan  yang  telah  diberikan  oleh  tim  pelatihan,  kemudian  peserta  diminta  untuk  mengambil gambar  dari  hasil  budidaya  untuk  dijadikan  konten  pemasaran  melalui  media  sosial.  Kegiatan  ini  berlangsung dengan lancar dan peserta sangat antusias dalam pelaksanaan kegiatan. Denganadanya pelatihan ini diharapkan masyarakat  Tembalang  dapat  memanfaatkan  teknologi  dengan  baik  terutama  dalam  penggunaan  media  sosial (Whatsapp) sebagai media pemasaran digital.
+abstract: Pengabdian masyarakat yang bertema “Budidaya Lele Dalam Ember dan Upaya Pemasaran Digital Menggunakan Media Sosial” bertujuan untuk memberikan pengetahuan dan keterampilan praktis kepada peserta tentang metode budidaya lele dalam ember yang sederhana, hemat biaya, dan cocok untuk lahan terbatas. Kegiatan ini dilatar belakangi oleh keinginan masyarakat Tembalang untuk budidaya dilahan terbatas dan memasarkan hasil budidayanya  di  media  sosial.  Pelatihan  ini  dilaksanakan  melalui  pendekatan  parsipatif  yang  melibatkan  teori, praktik, dan diskusi interaktif. Materi dari pelatihan ini, antara lain materi terkait budidaya ikan lele dalam ember dan  materi  terkait  media  sosial  dan  cara  pemanfaatannya  untuk  pemasaran  produk  ikan  lele  yang  sudah dibudidayakan. Peserta diminta untuk mempraktikkan tatacara budidaya yang baik dan benar menggunakan ember budidaya  dan  peralatan  yang  telah  diberikan  oleh  tim  pelatihan,  kemudian  peserta  diminta  untuk  mengambil gambar  dari  hasil  budidaya  untuk  dijadikan  konten  pemasaran  melalui  media  sosial.  Kegiatan  ini  berlangsung dengan lancar dan peserta sangat antusias dalam pelaksanaan kegiatan. Dengan adanya pelatihan ini diharapkan masyarakat  Tembalang  dapat  memanfaatkan  teknologi  dengan  baik  terutama  dalam  penggunaan  media  sosial (Whatsapp) sebagai media pemasaran digital.
 
 # Summary. An optional shortened abstract.
 summary: Pelatihan “Budidaya Lele dalam Ember dan Upaya Pemasaran Digital Menggunakan Media Sosial” telah terlaksana dengan baik  dan  berhasil  mencapai  hasil  yang  memuaskan. Berdasarkan  kuesioner  yang  dibagikan,  tingkat  kepuasan  peserta  terhadap  pelatihan  ini mencapai  95%.  Melalui  kegiatan  ini,  diharapkan  peserta  termotivasi  untuk  memanfaatkan lahan terbatas, terutama di perkotaan,dalam budidaya lele secara kreatif dan efisien. Selain itu, pelatihan  ini  juga  memberikan  wawasan  kepada  peserta  bahwa  pemasaran  digital  dapat dilakukan dengan biaya  terjangkau, namun tetap  efektif dalam meningkatkan jangkauan dan penjualan  produk.  Semogapelatihan  ini  dapat  menjadi  langkah  awal  yang  signifikan  dalam mendukung keberhasilan peserta di bidang budidaya dan pemasaran digital.
 
-
 tags:
-- Pemasaran Digital
-- Whatshapp
-- Budikdamber
+  - Pemasaran Digital
+  - Whatsapp
+  - Budikdamber
 
 featured: true
 
 links:
-- name: Proyek Terkait
-  url: https://ftuncen.com/index.php/JPMSAINTEK
+  - name: Proyek Terkait
+    url: https://ftuncen.com/index.php/JPMSAINTEK
 url_pdf: https://ftuncen.com/index.php/JPMSAINTEK/article/view/639/474
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: ""
+url_dataset: "#"
+url_poster: "#"
+url_project: "#"
+url_slides: "#"
+url_source: "#"
+url_video: "#"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://drive.google.com/file/d/1sDsuQ-STvS3nOEStbTBPiiZHY_AiZ88V/view?usp=drive_link)'
+  caption: "Image credit: [**Unsplash**](https://drive.google.com/file/d/1sDsuQ-STvS3nOEStbTBPiiZHY_AiZ88V/view?usp=drive_link)"
   focal_point: ""
   preview_only: false
 
@@ -64,14 +63,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Digital Marketing
+  -
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: Digital Marketing
+slides:
 ---
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
