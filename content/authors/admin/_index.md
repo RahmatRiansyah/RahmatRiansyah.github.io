@@ -116,15 +116,15 @@ skills:
       - name: FootBall
         description: ""
         percent: 100
-        icon: sepak bola.png
+        icon: football
       - name: Workout
         description: ""
         percent: 100
-        icon: olahraga.png
+        icon: workout
       - name: Swimming
         description: ""
         percent: 80
-        icon: swimming.png
+        icon: swimming
 
 languages:
   - name: English
