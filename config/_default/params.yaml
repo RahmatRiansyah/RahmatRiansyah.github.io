@@ -34,13 +34,13 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: "1"
+    logo: 1
       text: "Rahmat Riansyah"
 
 # Site footer
 footer:
   copyright:
-    notice: "© {2024} Me. This work is licensed under {license}"
+    notice: "© {2024} Me. This work is licensed under {Rahmat Riansyah}."
     license:
       enable: true
       allow_derivatives: false
