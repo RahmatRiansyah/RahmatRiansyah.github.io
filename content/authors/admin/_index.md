@@ -116,15 +116,15 @@ skills:
       - name: FootBall
         description: ""
         percent: 100
-        icon: football
-      - name: Workout
+        icon: Football
+      - name: Sport
         description: ""
         percent: 100
-        icon: workout
+        icon: Sport
       - name: Swimming
         description: ""
         percent: 80
-        icon: swimming
+        icon: Swimming
 
 languages:
   - name: English
