@@ -34,7 +34,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: 1
+    logo:
       text: "Rahmat Riansyah"
 
 # Site footer
