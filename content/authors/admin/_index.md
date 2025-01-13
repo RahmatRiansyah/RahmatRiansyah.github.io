@@ -11,7 +11,7 @@ last_name: Riansyah
 
 # Status emoji
 status:
-  icon: 👾
+  icon: 🐺
 
 # Is this the primary user of the site?
 superuser: true
@@ -116,15 +116,15 @@ skills:
       - name: FootBall
         description: ""
         percent: 100
-        icon: football
+        icon: fa-football
       - name: Sport
         description: ""
         percent: 100
-        icon: sport
+        icon: fa-trophy
       - name: Swimming
         description: ""
         percent: 80
-        icon: swimming
+        icon: fa-swimmer
 
 languages:
   - name: English
@@ -141,14 +141,14 @@ awards:
     url: https://drive.google.com/file/d/1EEeoRLPXhAlBGrZxcz90s58ioHE6c1y0/view?usp=sharing
     date: "2024-05-16"
     awarder: Microsoft
-    icon: coursera
+    icon: fa-Microsoft
     summary: |
       I studied the foundational concept of learning path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
   - title: Certificate Internasional Bootcamp Data Analyst
     url: https://drive.google.com/file/d/1i9j2zsAXMeAEmC4yCnkG-ongQ0-TW580/view?usp=sharing
     date: "2024-05-28"
     awarder: SmarPath
-    icon: edx
+    icon: fa-SmarPath
     summary: |
       This International Bootcamp in Data Analysis provided a comprehensive overview of data analysis techniques and tools. Throughout the course, I gained hands-on experience in data manipulation, statistical analysis, and data visualization using popular programming languages such as Python and R. 
       learned:
@@ -162,14 +162,15 @@ awards:
     certificate_url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
     date: "2023-01-21"
     awarder: InfraDigital
-    icon: datacamp
+    icon: fa-InfraDigital
     summary: |
       Training Hard Skill - Hybrid Learning:
 
       • Security Principles
       • Incident Response, Business       Continuity, and Disaster Recovery Concepts
       • Access Control Concepts
-      • Network Security
+      • Network Security 
+      
       Security Operations
       • SC-900: Describe the concepts of security, compliance, and identity
       • SC-900: Describe the capabilities of Microsoft Entra ID   

@@ -37,13 +37,13 @@ links:
   - name: Proyek Terkait
     url: https://ftuncen.com/index.php/JPMSAINTEK
 url_pdf: https://ftuncen.com/index.php/JPMSAINTEK/article/view/639/474
-url_code: ""
-url_dataset: "#"
-url_poster: "#"
-url_project: "#"
-url_slides: "#"
-url_source: "#"
-url_video: "#"
+#url_code: ""
+#url_dataset: "#"
+#url_poster: "#"
+#url_project: "#"
+#url_slides: "#"
+#url_source: "#"
+#url_video: "#"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
