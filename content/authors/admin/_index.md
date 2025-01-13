@@ -50,7 +50,7 @@ interests:
 education:
   - area: S1 Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    date_start: 2023-10-07
+    date_start: Oct 10, 2023
     date_end: ""
     summary: |
       Relevant courses: Learning the systematic processes associated with project design, programming languages, development, testing, maintenance, and software management. Able to maintain high GPAs at both of his studies with many involvements in organizations.
@@ -59,8 +59,8 @@ education:
       url: "https://github.com/RahmatRiansyah"
   - area: Natural Science
     institution: SMAN 8 PANGKEP
-    date_start: 2019-06-07
-    date_end: 2022-04-07
+    date_start: Jun 7, 2019
+    date_end: Apr 7, 2022
     summary: |
       GPA: 86.14/100
 
@@ -73,7 +73,7 @@ work:
     company_name: PT Shopee Express
     company_url: ""
     company_logo: ""
-    date_start: 2024-02-03
+    date_start: Feb 2, 2024
     date_end: ""
     summary: |2-
       • Responsible for the sorting and organizing of goods to ensure delivery efficiency. 
@@ -84,8 +84,8 @@ work:
     company_name: PT Tiens Syariah
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: Jan 1, 2016
+    date_end: Des 31, 2020
     summary: |
       • Built and maintained a distribution network for halal-certified health products.  
       • Conducted direct marketing and product sales through personal selling strategies in accordance with Sharia principles. 

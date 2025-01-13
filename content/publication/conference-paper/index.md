@@ -16,11 +16,11 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: 2024-09-30
+date: Sep 30, 2024
 doi: "https://doi.org/10.24002/jai.v4i5.9350"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-09-30
+publishDate: Sep 30, 2024
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
