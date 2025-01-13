@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023-present George Cushen (https://georgecushen.com/)
+Copyright (c) 2024-present Rahmat Riansyah(https://rahmatriansyah.github.io/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
