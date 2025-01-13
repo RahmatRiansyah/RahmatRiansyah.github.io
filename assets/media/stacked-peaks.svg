@@ -8,14 +8,12 @@
   </defs>
   <rect width="960" height="540" fill="url(#gradient)" />
 
-  <!-- Motif Lontara-inspired Shapes -->
+  <!-- Abstrak Shapes -->
   <path d="M100 200L200 150L300 200L400 150L500 200L600 150L700 200L800 150L900 200L900 100L800 100L700 100L600 100L500 100L400 100L300 100L200 100L100 100Z" fill="#2a2a2a" opacity="0.8"></path>
   <path d="M100 300L200 250L300 300L400 250L500 300L600 250L700 300L800 250L900 300L900 200L800 150L700 200L600 150L500 200L400 150L300 200L200 150L100 200Z" fill="#3a3a3a" opacity="0.7"></path>
   <path d="M100 400L200 350L300 400L400 350L500 400L600 350L700 400L800 350L900 400L900 300L800 250L700 300L600 250L500 300L400 250L300 300L200 250L100 300Z" fill="#4a4a4a" opacity="0.6"></path>
   <path d="M100 500L200 450L300 500L400 450L500 500L600 450L700 500L800 450L900 500L900 400L800 350L700 400L600 350L500 400L400 350L300 400L200 350L100 400Z" fill="#5a5a5a" opacity="0.5"></path>
 
-  <!-- Text with Lontara-inspired Style -->
-  <text x="50%" y="50%" text-anchor="middle" fill="#ffffff" font-size="48" font-family="Arial, sans-serif" font-weight="bold">
-    ᨅᨔᨗᨕᨘᨈᨙᨕᨘ
-  </text>
+  <!-- Abstrak Circle -->
+  <circle cx="480" cy="270" r="150" fill="#ffffff" opacity="0.2"></circle>
 </svg>
