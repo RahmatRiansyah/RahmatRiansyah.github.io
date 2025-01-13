@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Visualisasi Data dengan GGPLOT
+date: 2025-01-09
+external_link: https://rahmatriansyah.github.io/dataviz_ggplot/
 tags:
-  - Hugo
-  - Wowchemy
+  - R
+  - ggplot2
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+ggplot2 is a popular R data visualization package that implements the "Grammar of Graphics" concept, allowing users to create complex data visualizations in a systematic and intuitive way.
 
 <!--more-->

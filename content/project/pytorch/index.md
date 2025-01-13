@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Protorype RawBeans by Figma
+date: 2025-01-15
+external_link: https://www.figma.com/proto/oMmX1u9zmOUoZJTSkBD3Ft/Tugas-Bu-Alya?node-id=0-1&t=wMYCD7ySus9DXfVW-1
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Figma
+  - App Mobile
+  - RawBeans
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Rawbeans is an effective solution for facilitating the buying and selling of authentic coffee directly from farmers, allowing them to sell their products without intermediaries. With simple and transparent features, Rawbeans helps farmers secure better prices and enhances their access to the market.
 
 <!--more-->
