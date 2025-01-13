@@ -6,11 +6,11 @@ authors:
   - Adiyah Mahiruna
   - Rahmat Riansyah
   - Maulana Muhammad Jogo Samodro
-date: Des 10, 2024
+date: 2024-12-10
 doi: "https://doi.org/10.58169/jpmsaintek.v3i4.639"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: Des 10, 2024
+publishDate: 2024-12-10
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

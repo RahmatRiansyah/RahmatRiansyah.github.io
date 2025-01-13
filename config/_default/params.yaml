@@ -49,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: "Des 8, 2025"
+  date_format: 2025-01-08
   time_format: 13:04
 
 # Site features
