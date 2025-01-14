@@ -73,9 +73,9 @@ sections:
  #     filters:
   #      folders:
   #        - event
-    design:
-      view: article-grid
-      columns: 1
+   # design:
+   #   view: article-grid
+    #  columns: 1
   - block: collection
     id: news
     content:
