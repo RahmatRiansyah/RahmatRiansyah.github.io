@@ -3,7 +3,7 @@
 title: Rahmat Riansyah
 
 # Name pronunciation (optional)
-name_pronunciation: ᨔᨗᨑᨗ ᨊ ᨄᨌᨙ
+name_pronunciation: ᨔᨗ ᨑᨗ  ᨊ  ᨄ ᨌᨙ
 
 # Full name (for SEO)
 first_name: Rahmat
