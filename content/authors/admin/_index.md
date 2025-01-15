@@ -3,7 +3,7 @@
 title: Rahmat Riansyah
 
 # Name pronunciation (optional)
-name_pronunciation: ᨔᨗ ᨑᨗ  ᨊ  ᨄ ᨌᨙ
+name_pronunciation: ᨔᨗ ᨑᨗ    ᨊ    ᨄ ᨌᨙ
 
 # Full name (for SEO)
 first_name: Rahmat
@@ -109,6 +109,11 @@ skills:
         description: ""
         percent: 80
         icon: circle-stack
+      - name: C++
+        description: ""
+        percent: 80
+        icon: code-bracket
+      
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -124,7 +129,7 @@ skills:
       - name: Swimming
         description: ""
         percent: 80
-        icon: water
+        icon: swimmer
 
 languages:
   - name: English
