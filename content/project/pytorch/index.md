@@ -1,7 +1,7 @@
 ---
 title: RawBeans by Figma
 date: 2025-01-15
-external_link: https://www.figma.com/proto/oMmX1u9zmOUoZJTSkBD3Ft/Tugas-Bu-Alya?node-id=0-1&t=wMYCD7ySus9DXfVW-1
+external_link: https://www.canva.com/design/DAGcKJWGrhI/Mt3t5w_uE1jIDz1OCu3i0A/edit?utm_content=DAGcKJWGrhI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 tags:
   - Apps Mobile
   - Figma
