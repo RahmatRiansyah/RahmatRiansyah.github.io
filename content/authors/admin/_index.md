@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/RahmatRiansyah
   - icon: brands/linkedin
-    url: https://www.linkedin.com/rahmat-riansyah8
+    url: https://www.linkedin.com/in/rahmat-riansyah8
 
 interests:
   - Artificial Intelligence
@@ -107,7 +107,7 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ""
-        percent: 70
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: "#eeac02"
@@ -116,7 +116,7 @@ skills:
       - name: FootBall
         description: ""
         percent: 100
-        icon: football
+        icon: ball
       - name: Sport
         description: ""
         percent: 100
@@ -124,11 +124,11 @@ skills:
       - name: Swimming
         description: ""
         percent: 80
-        icon: swimmer
+        icon: water
 
 languages:
   - name: English
-    percent: 25
+    percent: 30
   - name: Makassar
     percent: 75
 
@@ -141,14 +141,14 @@ awards:
     url: https://drive.google.com/file/d/1EEeoRLPXhAlBGrZxcz90s58ioHE6c1y0/view?usp=sharing
     date: "2024-05-16"
     awarder: Microsoft
-    icon: fa-Microsoft
+    icon: Microsoft
     summary: |
       I studied the foundational concept of learning path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
   - title: Certificate Internasional Bootcamp Data Analyst
     url: https://drive.google.com/file/d/1i9j2zsAXMeAEmC4yCnkG-ongQ0-TW580/view?usp=sharing
     date: "2024-05-28"
     awarder: SmarPath
-    icon: fa-SmarPath
+    icon: SmarPath
     summary: |
       This International Bootcamp in Data Analysis provided a comprehensive overview of data analysis techniques and tools. Throughout the course, I gained hands-on experience in data manipulation, statistical analysis, and data visualization using popular programming languages such as Python and R. 
       learned:
@@ -162,7 +162,7 @@ awards:
     certificate_url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
     date: "2023-01-21"
     awarder: InfraDigital
-    icon: fa-InfraDigital
+    icon: InfraDigital
     summary: |
       Training Hard Skill - Hybrid Learning:
 
