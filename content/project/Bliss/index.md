@@ -8,6 +8,6 @@ tags:
   - Website
 ---
 
-Andalin Go is a highly effective solution for businesses engaged in export-import activities, offering a range of features that enhance operational efficiency and simplify the management of goods shipments.
+Our business "Bliss" aims to improve branding for individuals and businesses. And don't forget, we can help advance local MSMEs by promoting them using the website.
 
 <!--more-->

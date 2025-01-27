@@ -7,7 +7,7 @@ authors:
   - Rahmat Riansyah
   - Maulana Muhammad Jogo Samodro
 date: 2024-12-10
-doi: "https://doi.org/10.58169/jpmsaintek.v3i4.639"
+#doi: "https://doi.org/10.58169/jpmsaintek.v3i4.639"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-12-10

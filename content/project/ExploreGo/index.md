@@ -8,6 +8,6 @@ tags:
   - Balsamiq
 ---
 
-Andalin Go is a highly effective solution for businesses engaged in export-import activities, offering a range of features that enhance operational efficiency and simplify the management of goods shipments.
+ExploreGo is a highly effective solution for businesses engaged in export-import activities, offering a range of features that enhance operational efficiency and simplify the management of goods shipments.
 
 <!--more-->
