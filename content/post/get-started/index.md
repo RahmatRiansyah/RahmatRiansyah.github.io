@@ -1,7 +1,7 @@
 ---
 title: 📊 Membuat Visualisasi Data dengan ggplot2
 summary: Pelajari cara membuat visualisasi data yang menarik dan informatif menggunakan ggplot2 di R.
-date: 2023-10-27
+date: 2023-10-27T08:08:08Z
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

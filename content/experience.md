@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-date: 2023-10-24
+date: 2023-10-24T08:08:08Z
 type: landing
 
 design:
@@ -15,7 +15,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 2025-01-30
+      date_format: 2025-01-30T08:08:08Z
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills

@@ -1,6 +1,6 @@
 ---
 title: Visualisasi Data dengan GGPLOT
-date: 2025-01-09
+date: 2025-01-09T08:08:08Z
 external_link: https://rahmatriansyah.github.io/dataviz_ggplot/
 tags:
   - R

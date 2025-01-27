@@ -1,6 +1,6 @@
 ---
 title: Data Visualization
-date: 2025-01-27
+date: 2025-01-27T08:08:08Z
 external_link: https://rahmatriansyah.github.io/UAS_Data-Visualization/ 
 tags:
   - ggplot2
