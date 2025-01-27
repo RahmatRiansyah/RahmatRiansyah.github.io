@@ -41,7 +41,7 @@ url_pdf: https://ftuncen.com/index.php/JPMSAINTEK/article/view/639/474
 #url_dataset: "#"
 #url_poster: "#"
 #url_project: "#"
-url_slides: " #"
+#url_slides: " #"
 #url_source: "#"
 #url_video: "#"
 
