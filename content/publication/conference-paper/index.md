@@ -55,7 +55,7 @@ url_pdf: "https://drive.google.com/file/d/1Uz9XZPXJM5MZUNpTCcVyTgDpRRL77de6/view
 #url_dataset: "#"
 #url_poster: ""
 #url_project: ""
-url_slides: ""
+url_slides: "#"
 #url_source: "#"
 #url_video: "#"
 
