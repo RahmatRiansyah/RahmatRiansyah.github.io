@@ -72,7 +72,7 @@ work:
   - position: Daily Worker
     company_name: PT Shopee Express
     company_url: ""
-    company_logo: ""
+    company_logo: "#"
     date_start: 2024-02-03T08:08:08Z
     date_end: ""
     summary: |2-
