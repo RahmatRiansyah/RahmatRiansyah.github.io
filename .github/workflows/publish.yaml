@@ -58,10 +58,13 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
 
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
-      with:
-        path: ./public
+    - name: artefak-saya
+        path: path/to/artifact
+        if-no-files-found: warn
+        retention-days: 30
+        compression-level: 6
+        overwrite: false
+        include-hidden-files: false
 
   # Deploy website to GitHub Pages hosting
   deploy:
