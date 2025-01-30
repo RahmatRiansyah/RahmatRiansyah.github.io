@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: "© {2024} Me. This work is licensed under {Rahmat Riansyah}."
+    notice: "© {2024} Rahmat Riansyah. This work is licensed under {license}."
     license:
       enable: true
       allow_derivatives: false
