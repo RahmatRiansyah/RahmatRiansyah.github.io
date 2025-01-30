@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: "© {2024} Rahmat Riansyah. This work is licensed under {LICENSE}."
+    notice: "© {2024} Me. This work is licensed under {Rahmat Riansyah}."
     license:
       enable: true
       allow_derivatives: false
@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: "Jan 8, 2025"
-  time_format: "7:04 PM"
+  date_format: "Jan 8, 2004"
+  time_format: " 6:44 PM"
 
 # Site features
 features:
