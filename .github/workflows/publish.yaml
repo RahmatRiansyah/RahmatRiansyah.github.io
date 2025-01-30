@@ -26,7 +26,7 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
+    - name: Checkout
       uses: actions/checkout@v4
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
@@ -54,10 +54,9 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3.1.0
+      uses: actions/upload-pages-artifact@v2
       with:
-          name: my-artifact
-          path: path/to/artifact
+        path: ./public
 
   # Deploy website to GitHub Pages hosting
   deploy:
