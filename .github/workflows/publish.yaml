@@ -58,7 +58,6 @@ jobs:
       with:
         name: artefak-saya
         path: path/to/artifact/public
-
         if-no-files-found: warn
         retention-days: 30
         compression-level: 6
