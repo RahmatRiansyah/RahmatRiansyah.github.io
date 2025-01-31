@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-12-26T08:08:08Z
+date: "2024-12-26"
 type: landing
 
 design:
@@ -79,7 +79,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent Activity
       subtitle: ""
       text: ""
       # Page type to display. E.g. post, talk, publication...

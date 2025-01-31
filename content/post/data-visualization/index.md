@@ -1,7 +1,7 @@
 ---
 title: 📈 Data Visualitation
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2024-11-21T08:08:08Z
+date: "2024-11-21"
 authors:
   - admin
 tags:

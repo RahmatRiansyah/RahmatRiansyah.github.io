@@ -1,6 +1,6 @@
 ---
 title: ExploreGo
-date: 2024-12-20T08:08:08Z
+date: "2024-12-20"
 external_link: https://www.canva.com/design/DAGWOhPfRg4/TGMBdyZ1gfB6pRXVM6fTFA/edit?utm_content=DAGWOhPfRg4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 tags:
   - Mobile Apps
