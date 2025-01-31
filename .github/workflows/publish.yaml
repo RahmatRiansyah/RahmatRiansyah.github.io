@@ -56,7 +56,8 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
       with:
-        path: ./public
+        name: artefak-saya
+        path: path/to/artifact
         if-no-files-found: warn
         retention-days: 30
         compression-level: 6
