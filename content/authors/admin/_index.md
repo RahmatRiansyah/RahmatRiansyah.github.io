@@ -84,8 +84,8 @@ work:
     company_name: PT Tiens Syariah
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-01-01T08:08:08Z
+    date_end: 2020-12-31T08:08:08Z
     summary: |
       • Built and maintained a distribution network for halal-certified health products.  
       • Conducted direct marketing and product sales through personal selling strategies in accordance with Sharia principles. 
