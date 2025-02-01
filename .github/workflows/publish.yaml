@@ -1,7 +1,7 @@
-name: Deploy website to GitHub Pages
+name: Deploy Hugo to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.136.5'
+  HUGO_VERSION: "0.136.5"
 
 on:
   push:
@@ -22,42 +22,47 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-    
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: ${{ env.WC_HUGO_VERSION }}
-        extended: true
-    
-    - uses: actions/cache@v3
-      with:
-        path: /tmp/hugo_cache/
-        key: ${{ runner.os }}-hugo-${{ hashFiles('**/hugo.toml') }}
-        restore-keys: |
-          ${{ runner.os }}-hugo-
-    
-    - name: Setup Pages
-      id: pages
-      uses: actions/configure-pages@v3
-    
-    - name: Build with Hugo
-      env:
-        HUGO_ENVIRONMENT: production
-      run: |
-        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-    
-    - name: Generate Pagefind search index
-      run: npx pagefind --site "public"
-    
-    - name: Upload artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: github-pages
-        path: public
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: recursive  # Penting untuk theme Hugo yang pakai submodule
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      - name: Cache Hugo modules
+        uses: actions/cache@v3
+        with:
+          path: /tmp/hugo_cache/
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/hugo.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+
+      - name: Build with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          hugo \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --destination public  # Pastikan output ke folder public
+
+      - name: Generate search index
+        run: npx pagefind --source public  # Parameter diperbaiki
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: public/  # Path diperbaiki
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -67,6 +72,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v3
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v3
