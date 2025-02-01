@@ -269,7 +269,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ### Catatan:
 
-- Gantilah `username` dengan nama pengguna GitHub Anda dan `nama-tema-yang-dipilih` dengan nama tema yang Anda gunakan.
+- Gantilah "username" dengan nama pengguna GitHub Anda dan `nama-tema-yang-dipilih` dengan nama tema yang Anda gunakan.
 - Pastikan untuk menyesuaikan bagian lain sesuai dengan kebutuhan dan informasi spesifik proyek Anda.
 - Pastikan Anda menyimpan semua perubahan yang telah Anda buat.
 - Jika Anda tidak menemukan file tertentu, periksa dokumentasi tema Academic CV untuk informasi lebih lanjut tentang struktur file dan cara menyesuaikan tema.
