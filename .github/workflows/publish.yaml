@@ -39,7 +39,7 @@ jobs:
     - name: List public directory
       run: ls -la ./public  # Check if the build output exists
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v4
       with:
         path: ./public
 
