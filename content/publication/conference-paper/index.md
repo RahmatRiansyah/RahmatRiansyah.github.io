@@ -8,7 +8,7 @@ authors:
   - Adiyah Mahiruna
   - Rowiyani
   - Ngatimin
-  - Rahmat Riansyah
+  - admin
   - Arya Yuda Ega Wardana
 
 # Author notes (optional)
@@ -16,11 +16,11 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: "2024-09-30"
+date: "2024-09-30T00:00:00Z"
 doi: "https://doi.org/10.24002/jai.v4i5.9350"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-30"
+publishDate: "2024-09-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

@@ -144,14 +144,14 @@ languages:
 awards:
   - title: Career Essentials in Generative AI by Microsoft and LinkedIn
     url: https://drive.google.com/file/d/1EEeoRLPXhAlBGrZxcz90s58ioHE6c1y0/view?usp=sharing
-    date: "2024-05-16"
+    date: 2024-05-16
     awarder: Microsoft
     icon: Microsoft
     summary: |
       I studied the foundational concept of learning path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
   - title: Certificate Internasional Bootcamp Data Analyst
     url: https://drive.google.com/file/d/1i9j2zsAXMeAEmC4yCnkG-ongQ0-TW580/view?usp=sharing
-    date: "2024-05-28"
+    date: 2024-05-28
     awarder: SmarPath
     icon: SmarPath
     summary: |
@@ -165,7 +165,7 @@ awards:
   - title: READY4AI&SECURITY TRAINING
     url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
     certificate_url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
-    date: "2023-01-21"
+    date: 2023-01-21
     awarder: InfraDigital
     icon: InfraDigital
     summary: |

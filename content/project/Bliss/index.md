@@ -1,6 +1,6 @@
 ---
 title: Bliss.com
-date: "2024-12-20"
+date: 2024-12-20
 external_link: https://www.canva.com/design/DAGEFQRVnws/upFZBtuHABP_csWKSBAl8g/edit?utm_content=DAGEFQRVnws&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 tags:
   - Bussines
