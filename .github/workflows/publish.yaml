@@ -54,10 +54,9 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-       uses: actions/upload-artifact@v4
+      uses: actions/upload-pages-artifact@v2
       with:
         path: ./public
-      
 
   # Deploy website to GitHub Pages hosting
   deploy:
@@ -70,7 +69,4 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+      uses: actions/deploy-pages@v2
