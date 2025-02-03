@@ -69,13 +69,7 @@ jobs:
         name: hugo-site
 
     - name: Deploy to GitHub Pages
-      run: |
-        cd public
-        git init
-        git remote add origin https://github.com/RahmatRiansyah/RahmatRiansyah.github.io.git
-        git checkout -b gh-pages
-        git add .
-        git commit -m "Deploy to GitHub Pages"
-        git push origin gh-pages --force
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
