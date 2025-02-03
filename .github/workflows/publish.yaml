@@ -48,6 +48,8 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    - name: List public directory
+      run: ls -la ./public  # Debug step to check contents
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
@@ -66,12 +68,5 @@ jobs:
       id: deployment
       uses: actions/deploy-pages@v2
       with:
-        artifact: github-pages
         token: ${{ secrets.GITHUB_TOKEN }}
-        target_branch: main
-        publish_dir: ./public
-        force_orphan: true
-        clean: true
-        commit_message: "Deploy website to GitHub Pages"
-        commit_user_name: "GitHub Actions"
-        commit_user_email: "actions@github.com"  # Pastikan email ini valid
+        artifact_name: github-pages  # Use artifact_name instead of artifact
