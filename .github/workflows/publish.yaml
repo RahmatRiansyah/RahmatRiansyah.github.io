@@ -69,4 +69,4 @@ jobs:
       uses: actions/deploy-pages@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        name: github-pages  # Use artifact_name instead of artifact
+        artifact_name: github-pages  # Use artifact_name instead of artifact
