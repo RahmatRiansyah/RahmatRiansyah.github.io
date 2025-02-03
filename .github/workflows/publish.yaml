@@ -74,7 +74,7 @@ jobs:
       with:
         artifact: github-pages
         token: ${{ secrets.GITHUB_TOKEN }}
-        target_branch: main
+        target_branch: gh-pages
         publish_dir: ./public
         force_orphan: true
         clean: true
