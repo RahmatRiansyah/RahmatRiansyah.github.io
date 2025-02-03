@@ -58,7 +58,7 @@ jobs:
         run: ls -la ./public  # Memeriksa isi direktori public
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
           name: github-pages  # Menyimpan artifact dengan nama yang sesuai
@@ -68,7 +68,7 @@ jobs:
     needs: build
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v2
         with:
           name: github-pages  # Mengunduh artifact dengan nama yang sesuai
 
