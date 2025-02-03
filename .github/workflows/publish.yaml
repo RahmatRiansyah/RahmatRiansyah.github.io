@@ -79,5 +79,5 @@ jobs:
         force_orphan: true
         clean: true
         commit_message: "Deploy website to GitHub Pages"
-        commit_user_name: "RahmatRiansyah"
-        commit_user_email: "rahmatriansyahpkp@gmail.com"
+        commit_user_name: "GitHub Actions"
+        commit_user_email: "
