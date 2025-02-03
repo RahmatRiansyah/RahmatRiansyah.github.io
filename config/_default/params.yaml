@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Rahmat Riansyah"
+      text: "UAS Pengantar RPL"
 
 # Site footer
 footer:
@@ -49,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: "Jan 8, 2004"
+  date_format: "Jan 08, 2004"
   time_format: "6:44 PM"
 
 # Site features
