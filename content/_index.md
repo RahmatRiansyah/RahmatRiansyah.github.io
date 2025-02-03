@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "UAS Pengantar RPL"
+title: ""
 date: 2024-12-26
 type: landing
 
