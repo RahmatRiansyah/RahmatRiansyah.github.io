@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Rahmat Riansyah
+title: UAS PENGANTAR RPL
 
 # Name pronunciation (optional)
-name_pronunciation: ᨔᨗᨑᨗ    ᨊ    ᨄᨌᨙ
+name_pronunciation: ᨔᨗᨑᨗ ᨊ ᨄᨌᨙ
 
 # Full name (for SEO)
 first_name: Rahmat

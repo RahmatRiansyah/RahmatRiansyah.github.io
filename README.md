@@ -260,7 +260,7 @@ Kemudian buka browser dan akses `http://localhost:1313` untuk melihat tampilan b
 
 ## Tautan ke Situs Blog
 
-Blog Anda dapat diakses di [https://rahmatriansyah.github.io/](https://rahmatriansyah.github.io/).
+Blog Anda dapat diakses di [https://rahmatriansyah.netlify.app/](https://rahmatriansyah.netlify.app/).
 
 ## Lisensi
 
