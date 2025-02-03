@@ -71,4 +71,13 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
-      
+      with:
+        artifact: github-pages
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: main
+        publish_dir: ./public
+        force_orphan: true
+        clean: true
+        commit_message: "Deploy website to GitHub Pages"
+        commit_user_name: "RahmatRiansyah"
+        commit_user_email: "rahmatriansyahpkp@gmail.com"
