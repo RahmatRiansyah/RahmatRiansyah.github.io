@@ -61,10 +61,10 @@ url_pdf: "https://drive.google.com/file/d/1Uz9XZPXJM5MZUNpTCcVyTgDpRRL77de6/view
 
  #Featured image
  #To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
- # caption: "Image credit: [**Unsplash**](https://drive.google.com/file/d/1isTHQsaKt97s-Z-iqEpv9fXwbV0q3PJv/view?usp=drive_link)"
- # focal_point: ""
- # preview_only: false
+image:
+  caption: "Image credit: [**Unsplash**](https://drive.google.com/file/d/1isTHQsaKt97s-Z-iqEpv9fXwbV0q3PJv/view?usp=drive_link)"
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
