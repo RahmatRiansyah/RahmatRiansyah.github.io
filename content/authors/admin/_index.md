@@ -6,8 +6,8 @@ title: Rahmat Riansyah
 name_pronunciation: ᨔᨗᨑᨗ ᨊ ᨄᨌᨙ
 
 # Full name (for SEO)
-first_name: UAS
-last_name:  Pengantar RPL
+first_name: Rahmat
+last_name: Riansyah
 
 # Status emoji
 status:
