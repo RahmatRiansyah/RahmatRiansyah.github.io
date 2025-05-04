@@ -19,6 +19,6 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 5
+      columns: 6
       padding: '1rem'
 ---
