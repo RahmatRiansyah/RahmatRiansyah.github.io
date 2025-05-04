@@ -51,7 +51,7 @@ education:
   - area: S1 Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2023-10-07
-    date_end: ""
+    date_end: 
     summary: |
       Relevant courses: Learning the systematic processes associated with project design, programming languages, development, testing, maintenance, and software management. Able to maintain high GPAs at both of his studies with many involvements in organizations.
     button:
@@ -74,7 +74,7 @@ work:
     company_url: ""
     company_logo: ""
     date_start: 2024-02-03
-    date_end: ""
+    date_end: 2025-03-30
     summary: |2-
       • Responsible for the sorting and organizing of goods to ensure delivery efficiency. 
       • Managed inventory and ensured stock accuracy with the warehouse management system. 
@@ -144,16 +144,16 @@ languages:
 awards:
   - title: Career Essentials in Generative AI by Microsoft and LinkedIn
     url: https://drive.google.com/file/d/1EEeoRLPXhAlBGrZxcz90s58ioHE6c1y0/view?usp=sharing
-    date: 2024-05-16
+    date: "2024-05-16"
     awarder: Microsoft
-    icon: Microsoft
+    icon: 
     summary: |
       I studied the foundational concept of learning path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
   - title: Certificate Internasional Bootcamp Data Analyst
     url: https://drive.google.com/file/d/1i9j2zsAXMeAEmC4yCnkG-ongQ0-TW580/view?usp=sharing
-    date: 2024-05-28
+    date: "2024-05-28"
     awarder: SmarPath
-    icon: SmarPath
+    icon: 
     summary: |
       This International Bootcamp in Data Analysis provided a comprehensive overview of data analysis techniques and tools. Throughout the course, I gained hands-on experience in data manipulation, statistical analysis, and data visualization using popular programming languages such as Python and R. 
       learned:
@@ -165,9 +165,9 @@ awards:
   - title: READY4AI&SECURITY TRAINING
     url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
     certificate_url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
-    date: 2023-01-21
+    date: "2023-01-21"
     awarder: InfraDigital
-    icon: InfraDigital
+    icon: 
     summary: |
       Training Hard Skill - Hybrid Learning:
 

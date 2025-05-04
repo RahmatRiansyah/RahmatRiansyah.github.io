@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: "2004-01-02"
-  time_format: "15:04:05"
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
 
 # Site features
 features:
