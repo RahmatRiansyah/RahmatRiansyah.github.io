@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Agus Setiawan",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "15050000",
+        "1840000",
+        "138000000",
+        "15752500",
+        "0",
+        "29100000"
+      ],
+      "fillcolor": "rgb(224, 102, 102)"
+    },
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Andreas Nichol",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "0",
+        "0",
+        "12750000",
+        "1275000",
+        "0",
+        "24900000"
+      ],
+      "fillcolor": "rgb(255, 0, 0)"
+    },
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Darmanto Adjie",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "8650000",
+        "1275000",
+        "0",
+        "35200000",
+        "0",
+        "0"
+      ],
+      "fillcolor": "rgb(0, 255, 0)"
+    },
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Dewi Ratna Sari",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "2760000",
+        "0",
+        "0",
+        "55920000",
+        "0",
+        "5100000"
+      ],
+      "fillcolor": "rgb(0, 0, 255)"
+    },
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Eko Prasetyo",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "0",
+        "0",
+        "6800000",
+        "0",
+        "0",
+        "0"
+      ],
+      "fillcolor": "rgb(255, 255, 0)"
+    },
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Inne Anneke",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "0",
+        "0",
+        "0",
+        "36900000",
+        "0",
+        "965000"
+      ],
+      "fillcolor": "rgb(255, 0, 255)"
+    },
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Lukas Darmadji",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "0",
+        "0",
+        "0",
+        "26205000",
+        "2000000",
+        "17900000"
+      ],
+      "fillcolor": "rgb(0, 255, 255)"
+    },
+    {
+      "uid": "babced",
+      "fill": "tonexty",
+      "mode": "none",
+      "name": "Nayla Subandono",
+      "type": "scatter",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "y": [
+        "11900000",
+        "19300000",
+        "5980000",
+        "18500000",
+        "2000000",
+        "83065000"
+      ],
+      "fillcolor": "rgb(128, 0, 128)"
+    }
+    ],
+    "layout": {
+      "title": "Sales by Seller",
+      "width": 800,
+      "xaxis": {
+        "type": "category",
+        "range": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+        "title": "Month"
+      },
+      "yaxis": {
+        "type": "linear",
+        "range": [0, 200000000],
+        "title": "Sales"
+      },
+      "height": 500,
+      "autosize": false
+    },
+    "frames": []
+    }

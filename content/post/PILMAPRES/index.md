@@ -42,9 +42,9 @@ My goals in joining this competition include:
 
 ## 🔗 Related Links
 
-- 📄 [Creative Idea Essay (PDF)](https://drive.google.com/...)  
+- 📄 [Creative Idea Essay (PDF)](https://drive.google.com/file/d/1lvozTa6MaPZw6C8NSXr2vfaA3EiMqpJE/view?usp=sharing)  
 - 🎬 [Presentation Video (YouTube)](https://www.youtube.com/watch?si=cyMGRneL03Z_N0oU&v=bGhW_qwBG44&feature=youtu.be)  
-- 📑 [CU Portfolio Documentation](https://drive.google.com/drive/folders/1EPUj2Y6mDYTOOQRV6lQ8W0N51Kn-GgE0?usp=sharing)  
+- 📑 [CU Portfolio Documentation](https://docs.google.com/spreadsheets/d/1O6AHXj2Zl8om9_VKEIMMQUAE7lYpx2Yt/edit?usp=sharing&ouid=108665780732120228685&rtpof=true&sd=true)  
 - 📬 [Recommendation Letter & Assignment](https://drive.google.com/file/d/1HZhkpHz7MTEkTFEUMmYu2kbevYiByzRC/view?usp=sharing)
 
 ---
